@@ -1,0 +1,25 @@
+# Ignorer résultats et gros artefacts des dossiers "echec 1" et "echec 2"
+/echec 1/results/
+/echec 2/results/
+/echec 2/results_v2/
+
+# Ignorer modèles entraînés
+/echec 2/model-trained-v2/
+/echec 2/model-trained/
+/echec 1/model-trained/
+
+# Ignorer dossiers de données volumineuses (ne pas versionner les données sources)
+/data/codes/
+/data/jorf_2023_1990/
+
+# Caches Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Virtual environment (si présent)
+/venv/
+
+# Éditeur / système
+.vscode/
+.DS_Store
