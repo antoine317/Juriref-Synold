@@ -1,11 +1,9 @@
 
 Présentation des fichiers :
 
-Dans data/ sont présents :
-- les données initiales (codes et jorf_2023_1990), 
-- le rendu final dans data/html où tous les fichiers ont été convertis en html avec les hyperliens
+Dans data/html est présent :
+- le rendu final où tous les fichiers ont été convertis en html avec les hyperliens
     En passant la souris sur l'article, on aperçoit le code ou la loi à laquelle il est attaché
-- Des données de calculs intermédiaires dans processed
 
 Echec 1 et Echec 2 représentent mes tentatives infructueuses d'utiliser la méthode NER avec spacy (détail plus bas)
 
